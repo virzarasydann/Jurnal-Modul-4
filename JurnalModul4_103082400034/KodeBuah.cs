@@ -15,8 +15,8 @@ namespace JurnalModul4_103082400034
                 Console.WriteLine("Kode Buah : "+kodeBuah[i]);
             }
 
-
-
+            
+           
         }
             
     }
