@@ -10,7 +10,8 @@ namespace JurnalModul4_103082400034
 
         static void Main(string[] args)
         {
-            KodeBuah.getKodeBuah();
+            //KodeBuah.getKodeBuah("Apel");
+            PosisiKarakterGame.AutomataDriven();
         }
     }
 }

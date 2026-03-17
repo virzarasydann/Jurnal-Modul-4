@@ -16,7 +16,7 @@ namespace JurnalModul4_103082400034
             while (state != State.EXIT)
             {
                 Console.WriteLine("Kondisi saat ini: " + state);
-                Console.Write("Input Command (TombolW/TombolS/TombolX) : ");
+                Console.Write("Input Command (W/S/X) : ");
 
                 string command = Console.ReadLine();
 
